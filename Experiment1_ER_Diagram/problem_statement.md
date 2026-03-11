@@ -9,7 +9,7 @@ Gain hands-on experience in designing ER diagrams that represent database struct
 ---
 
 ## Reg No : 212224040312
-## Name : A> Sherwin Infano
+## Name : A. Sherwin Infano
 
 # Scenario A: City Fitness Club Management
 
